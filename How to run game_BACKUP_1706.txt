@@ -1,0 +1,9 @@
+#How to run game
+<<<<<<< HEAD
+#By Code blasters 💣
+=======
+- by Code blasters
+>>>>>>> game_hub_copy
+To launch the game , go inside the GameHub folder , right click and select Open in terminal. A powershell window will appear. There you need to run the command "./dist/GameHub.exe". 
+
+P.S. Hide the taskbar for a more immersive experience. Also use the cross provided below the actual cross for closing the game.
